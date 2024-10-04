@@ -37,4 +37,5 @@ Right join
 
 Creating mathematic calculations using formulas in SQL queries
 
-Creating mathematic calculations using formulas in SQL queries Create visualisations
+Creating mathematic calculations using formulas in SQL queries Create visualisations![0000](https://github.com/user-attachments/assets/d02a4b65-e7e3-4118-97db-261d4f33e0c7)
+
