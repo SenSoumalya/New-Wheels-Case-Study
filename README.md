@@ -1,4 +1,5 @@
-[0000](https://github.com/user-attachments/assets/d02a4b65-e7e3-4118-97db-261d4f33e0c7)
+![0000](https://github.com/user-attachments/assets/92cae5b3-a397-43d1-875a-0cf1e8ae51b8)
+
 
 # New-Wheels-Case-Study
 Course: SQL
