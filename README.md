@@ -24,10 +24,17 @@ The data dictionary (new_wheels_sales.txt), which has detailed descriptions of e
 Skills & Tools:
 
 Fetching and filtering techniques to query the data
+
 Aggregating the data using aggregate and window functions
+
 Getting quicker insights using sub queries and case when functions
+
 Joining the multiple tables using inner joins
+
 Left join
+
 Right join
+
 Creating mathematic calculations using formulas in SQL queries
+
 Creating mathematic calculations using formulas in SQL queries Create visualisations
