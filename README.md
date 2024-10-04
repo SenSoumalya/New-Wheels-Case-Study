@@ -40,5 +40,10 @@ Right join
 
 Creating mathematic calculations using formulas in SQL queries
 
+My Learnings:
 
+1. Developed advanced SQL querying skills, including joins, subqueries, and conditional logic.
+2. Gained experience in transforming disorganized data into structured, actionable insights.
+3. Improved my ability to derive business recommendations from data trends and visualizations.
+4. Understood the importance of customer satisfaction metrics and how they can affect long-term sales trends.
 
